@@ -37,4 +37,4 @@ This project uses [GitFlow](https://nvie.com/posts/a-successful-git-branching-mo
 
 ---
 
-**Author:** normzke 
+**Author:** normzke
